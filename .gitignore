@@ -1,0 +1,7 @@
+# 스킬 사용 통계: 실행 중 쌓이는 로컬 데이터 (훅이 기록) — 추적하지 않음
+.claude/stats/
+
+# git worktree 작업 디렉토리
+.worktrees/
+
+.DS_Store
